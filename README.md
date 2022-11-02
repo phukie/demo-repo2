@@ -9,3 +9,4 @@ feature branch
 ## master branch
 add in the master changes
 ## add new things
+## add 2nd thing
