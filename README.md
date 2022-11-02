@@ -10,4 +10,5 @@ add in the master changes
 ## add new things
 ## add 2nd thing
 ## add quicktest thing
-## add master ttt thing
+<<<<<<< HEAD
+## add master xxxttt thing
