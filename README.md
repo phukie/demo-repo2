@@ -1,7 +1,6 @@
 # Demo 2
 
 Shit Me
-Eat Me
 Poo U
 
 ## do this 
@@ -12,3 +11,4 @@ add in the master changes
 ## add 2nd thing
 ## add quicktest thing
 ## add quicktest 2nd thing
+## add master xxxttt thing
